@@ -8,3 +8,8 @@ Activity 3
 Activity 4
 ![image](https://github.com/adrianchow-tech/ECE444-F2023-Assignment1/assets/81934116/df7ab647-5e2c-485b-9a1e-bd3e598ab789)
 ![image](https://github.com/adrianchow-tech/ECE444-F2023-Assignment1/assets/81934116/d8a9a407-0a7a-4e08-b13a-3ab5bf8c751c)
+
+Activity 5
+![image](https://github.com/adrianchow-tech/ECE444-F2023-Assignment1/assets/81934116/fa53aec3-e107-4a93-bfa9-27b036fe87ae)
+![image](https://github.com/adrianchow-tech/ECE444-F2023-Assignment1/assets/81934116/b0ba153e-33af-41a2-94d9-dcaddfc4bfbb)
+![image](https://github.com/adrianchow-tech/ECE444-F2023-Assignment1/assets/81934116/9021247f-3bbe-4d49-b352-2c47257a4f57)
