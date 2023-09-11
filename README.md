@@ -3,6 +3,7 @@ Activity 1
 ![image](https://github.com/adrianchow-tech/ECE444-F2023-Assignment1/assets/81934116/87237cab-c552-4e95-83db-a197ab788468)
 
 Activity 2
+
 ![image](https://github.com/adrianchow-tech/ECE444-F2023-Assignment1/assets/81934116/89f68496-7c62-4bda-bf99-b9dd19ab6962)
 
 Activity 3 
